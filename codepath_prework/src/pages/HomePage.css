@@ -1,0 +1,47 @@
+.homepage{
+    width:100vw;
+    height:100vh;
+
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+/* 按钮容器 */
+.button-group{
+    display:flex;
+
+    gap:30px;      /* 两个按钮间距 */
+
+    flex-wrap:wrap;
+}
+
+/* 按钮 */
+.start-btn{
+    width:220px;
+    height:70px;
+
+    background-color:#2f4f5f;
+    color:white;
+
+    border:none;
+    border-radius:20px;
+
+    font-size:18px;
+    font-weight:600;
+
+    cursor:pointer;
+
+    transition:0.3s;
+    margin: 30px;
+}
+
+.start-btn:hover{
+    background-color:#203843;
+
+    transform:translateY(-3px);
+}

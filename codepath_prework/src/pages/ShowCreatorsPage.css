@@ -1,0 +1,37 @@
+.display-page-container{
+    padding:30px;
+}
+
+.display-body{
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:30px;
+
+    width:90%;
+    margin:auto;
+}
+
+.creator-link{
+    text-decoration:none;
+    background-color: white;
+    border-radius: 20px;
+    margin: 30px;
+}
+.loading,
+.error{
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    height:60vh;
+
+    font-size:24px;
+
+    font-weight:600;
+
+    color:#2f4f5f;
+}
