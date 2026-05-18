@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="./cp_prework.gif" title="Video Walkthrough" width="700" alt="Video Walkthrough" />
+![](cp_prework.gif)
 
 GIF created with **LICECap**
 
