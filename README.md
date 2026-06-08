@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](cp_prework.gif)
+![](project1_demo.gif)
 
 GIF created with **LICECap**
 
